@@ -5,3 +5,4 @@
 3. git restore --staged "updates.txt"
 4. git reset "updates.txt"
 5. git diff --staged
+6. git push origin main
